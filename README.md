@@ -1,17 +1,16 @@
-# Basics 1
+# Holbertonschool Network
 
 ## Overview
-This directory contains project work for Basics 1. It groups exercises, scripts, and resources related to this module.
+This directory contains project work for Holbertonschool Network. It groups exercises, scripts, and resources related to this module.
 
 ## Learning Focus
 - Networking fundamentals, protocols, and diagnostics.
 - Writing clean, testable, and maintainable code for each task.
 
 ## Directory Contents
-- 0-change_your_home_IP
-- 1-show_attached_IPs
-- 2-port_listening_on_localhost
+- basics_0/
+- basics_1/
 
 ## Notes
-- Path: holbertonschool-network/basics_1
+- Path: holbertonschool-network
 - Each subtask may include its own implementation details and requirements.
